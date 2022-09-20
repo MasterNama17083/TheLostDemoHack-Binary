@@ -1,2 +1,2 @@
-# TheLostDemoHack-Binary
-This hack created by SonicAlex500 and me but it's cancelled hack.
+# The Lost Demo
+This binary hack is cancelled but we're going to make decomp port.
