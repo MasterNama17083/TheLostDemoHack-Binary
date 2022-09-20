@@ -1,0 +1,125 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for 'FINAL_finalogo_forhack.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl pink
+Ka 0.996078 0.647059 1
+Kd 0.996078 0.647059 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl pink_shadow
+Ka 0.321569 0.0313725 0.47451
+Kd 0.321569 0.0313725 0.47451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl red
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl yellow
+Ka 1 1 0.372549
+Kd 1 1 0.372549
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl green
+Ka 0.364706 1 0.372549
+Kd 0.364706 1 0.372549
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl blue
+Ka 0.368627 0.368627 1
+Kd 0.368627 0.368627 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl red_shadow
+Ka 0.643137 0 0
+Kd 0.643137 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl red_shadow2
+Ka 0.443137 0 0
+Kd 0.443137 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl blue_shadow
+Ka 0 0 0.423529
+Kd 0 0 0.423529
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl blue_shadow2
+Ka 0 0 0.294118
+Kd 0 0 0.294118
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl yellow_shadow
+Ka 0.631373 0.631373 0
+Kd 0.631373 0.631373 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl yellow_shadow2
+Ka 0.415686 0.415686 0
+Kd 0.415686 0.415686 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl yellow_shadow3
+Ka 0.294118 0.294118 0
+Kd 0.294118 0.294118 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl green_shadow
+Ka 0 0.294118 0
+Kd 0 0.294118 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+#EOF
